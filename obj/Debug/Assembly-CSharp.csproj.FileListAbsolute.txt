@@ -1,0 +1,42 @@
+D:\UnityDemoProject\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityDemoProject\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityDemoProject\Temp\bin\Debug\UnityEditor.dll
+D:\UnityDemoProject\Temp\bin\Debug\UnityEngine.dll
+D:\UnityDemoProject\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityDemoProject\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityDemoProject\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityDemoProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityDemoProject\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityDemoProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityDemoProject\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityDemoProject\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityDemoProject\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityDemoProject\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityDemoProject\Temp\bin\Debug\UnityEngine.xml
+D:\UnityDemoProject\Temp\bin\Debug\UnityEditor.xml
+D:\UnityDemoProject\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityDemoProject\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityDemoProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityDemoProject\obj\Debug\Assembly-CSharp.dll
+D:\UnityDemoProject\obj\Debug\Assembly-CSharp.pdb
+D:\FINAL GAME - blind\Temp\bin\Debug\Assembly-CSharp.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEditor.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEngine.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEngine.UI.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Mono.Cecil.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Unity.DataContract.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Unity.CecilTools.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEngine.xml
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEditor.xml
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEngine.UI.xml
+D:\FINAL GAME - blind\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\FINAL GAME - blind\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\FINAL GAME - blind\obj\Debug\Assembly-CSharp.dll
+D:\FINAL GAME - blind\obj\Debug\Assembly-CSharp.pdb
